@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>cep</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/imgs/259269_copy_java_sdks_icon.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/259269_copy_java_sdks_icon.png</locationURI>
+		</link>
+		<link>
+			<name>src/imgs/5172948_browser_information_internet_security_spy_icon.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/5172948_browser_information_internet_security_spy_icon.png</locationURI>
+		</link>
+		<link>
+			<name>src/imgs/6318082_about_faq_help_question_icon.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/6318082_about_faq_help_question_icon.png</locationURI>
+		</link>
+		<link>
+			<name>src/imgs/8673525_ic_fluent_person_question_mark_icon.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/8673525_ic_fluent_person_question_mark_icon.png</locationURI>
+		</link>
+		<link>
+			<name>src/imgs/ttinfo.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/ttinfo.png</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
