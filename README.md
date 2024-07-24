@@ -8,3 +8,5 @@ Contem busca otmizada com:
    > dom4j ✅
    > Eclipse IDE ✅
    > Window Builder ✅
+
+Web Service utilizado: https://www.republicavirtual.com.br/cep/
